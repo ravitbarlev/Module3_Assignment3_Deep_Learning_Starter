@@ -1,7 +1,7 @@
 # REPORT — Module 3 · Assignment 3 · Deep Learning Foundations
 
-**Name:** ___  **ID:** ___  **Date:** ___
-**Chosen option:** ___ (A · Olist MLP / B · Fashion-MNIST CNN / C · Olist Autoencoder)
+**Name:**Ravit Bar-Lev_  **ID:** 029290400  **Date:** 01/08/2026
+**Chosen option:** ___ B · Fashion-MNIST CNN 
 
 > Keep this report in English. A neural net that loses to a simpler model is a finding,
 > not a failure. Report it honestly.
