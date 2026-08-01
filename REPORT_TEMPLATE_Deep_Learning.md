@@ -25,10 +25,10 @@ The baseline model I am comparing against is the logistic regression.
 ---
 
 ## 2. Results
-| Model | Test metric | Params | Train time | Notes |
+| Model | Test metric (accuracy) | Params | Train time | Notes |
 |---|---|---|---|---|
-| simpler baseline | | | | |
-| neural net | | | | |
+| simpler baseline |83.50% |7850 |a few seconds  |simple linear model  |
+| neural net |91.77% |206922 | 12 minutes| SmallCNN demonstrated overfitting|
 
 ---
 
