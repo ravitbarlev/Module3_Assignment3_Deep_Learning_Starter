@@ -10,9 +10,15 @@
 
 ## 1. Framing
 Task and primary metric:
+The task was to practice SmallCNN and class MLP on FashionMNIST that incudes 60K clothes picture 
+divided to 10 classes. The training part focuses on accuracy by comparing the results to 
+real tags. This analysis presents the learning curve of pictures identification model.
+The architecture used is: layers & paramsץ
+Layers: SmallCNN - containing 2 Convolutional layers, 2 Max Pooling layers and 2 Fully Connected layers.
+Params:206,922 total trainable parameters
 
-Baseline you are comparing against (for A: your best Assignment-1 model):
-
+Baseline you are comparing against:
+The baseline model I am comparing against is the logistic regression.
 ---
 
 ## 2. Results
